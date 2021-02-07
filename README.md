@@ -32,6 +32,10 @@ All downloads can be found here: [https://git-scm.com/downloads](https://git-scm
 ### How To Install Git Bash On Windows (Tutorial, 4 mins read)
 [https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/)
 
+## Create Your First GitHub Pages Website
+    Watch this YouTube [https://www.youtube.com/watch?v=BA_c3bGQXlQ]) by [PROGRAMMING LIFTOFF](https://programmingliftoff.com/).
+
+
 ## Upload a Website to GitHub Pages
 1. Installing Git and Git Bash (makes it easier to follow the tutorial)
 2. Check out this tutorial, including video, from PROGRAMMING LIFTOFF on "Upload a Website to GitHub Pages" (20 mins video) at [https://programmingliftoff.com/upload-website-github-pages/](https://programmingliftoff.com/upload-website-github-pages/)
