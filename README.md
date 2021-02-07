@@ -21,8 +21,20 @@ npm is installed with Node.js
 
 This means that you have to install Node.js to get npm installed on your computer.
 
-Download Node.js from the official Node.js web site: [https://nodejs.org](https://nodejs.org)
+Download Node.js from the official Node.js website [https://nodejs.org](https://nodejs.org) or their download page [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
+## What is Node.js®
+Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/).
+
+## Installing Git and Git Bash
+All downloads can be found here: [https://git-scm.com/downloads](https://git-scm.com/downloads). For Windows version downloads only [https://git-scm.com/download/win](https://git-scm.com/download/win)
+
+### How To Install Git Bash On Windows (Tutorial, 4 mins read)
+[https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/)
+
+## Upload a Website to GitHub Pages
+1. Installing Git and Git Bash (makes it easier to follow the tutorial)
+2. Check out this tutorial, including video, from PROGRAMMING LIFTOFF on "Upload a Website to GitHub Pages" (20 mins video) at [https://programmingliftoff.com/upload-website-github-pages/](https://programmingliftoff.com/upload-website-github-pages/)
 
 ## Welcome to GitHub Pages
 
