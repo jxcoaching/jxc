@@ -1,3 +1,29 @@
+## What is npm?
+### The World's Largest Software Registry (Library)
+
+npm is the world's largest Software Registry.
+
+The registry contains over 800,000 code packages.
+
+Open-source developers use npm to share software.
+
+Many organizations also use npm to manage private development.
+
+### Using npm is Free
+
+npm is free to use.
+
+You can download all npm public software packages without any registration or logon.
+
+### Installing npm
+
+npm is installed with Node.js
+
+This means that you have to install Node.js to get npm installed on your computer.
+
+Download Node.js from the official Node.js web site: [https://nodejs.org](https://nodejs.org)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jxcoaching/jxc/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -24,32 +50,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
-# What is npm?
-## The World's Largest Software Registry (Library)
-
-npm is the world's largest Software Registry.
-
-The registry contains over 800,000 code packages.
-
-Open-source developers use npm to share software.
-
-Many organizations also use npm to manage private development.
-
-## Using npm is Free
-
-npm is free to use.
-
-You can download all npm public software packages without any registration or logon.
-
-## Installing npm
-
-npm is installed with Node.js
-
-This means that you have to install Node.js to get npm installed on your computer.
-
-Download Node.js from the official Node.js web site: [https://nodejs.org](https://nodejs.org)
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
